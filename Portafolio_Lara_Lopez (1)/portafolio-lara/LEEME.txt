@@ -1,0 +1,8 @@
+PORTAFOLIO DE LARA LOPEZ
+
+Para ejecutar: npm install y luego npm run dev
+Para compilar: npm run build
+
+Vercel: Framework Vite; Build Command npm run build; Output Directory dist.
+
+Para GitHub: extraer el ZIP y subir el contenido de esta carpeta. package.json debe quedar en la raiz del repositorio. No subir el ZIP ni node_modules.
