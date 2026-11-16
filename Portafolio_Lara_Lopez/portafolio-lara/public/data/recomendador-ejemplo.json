@@ -1,0 +1,71 @@
+{
+  "perfil": {
+    "id": "perfil-01",
+    "nombre": "Adoptante ficticia A: primera mascota en departamento"
+  },
+  "criterios": {
+    "tipo_vivienda": "departamento",
+    "tiempo_disponible": "poco",
+    "actividad_fisica": "baja",
+    "experiencia": "ninguna",
+    "espacio": "pequeño",
+    "ninos": "no",
+    "otras_mascotas": "no",
+    "preferencia_tipo": "cualquiera"
+  },
+  "ajustes": [],
+  "total_mascotas": 14,
+  "total_compatibles": 13,
+  "descartadas": [
+    {
+      "id": 14,
+      "nombre": "Simón",
+      "motivo": "No está disponible para adopción"
+    }
+  ],
+  "metodo": "reglas",
+  "motivo_respaldo": "no hay clave de Groq configurada",
+  "resumen_perfil": "La persona vive en departamento, tiene poco tiempo diario, lleva una vida tranquila, sería su primera mascota, no convive con niños, no tiene otras mascotas y está abierta a perro o gato.",
+  "consejo_general": "Para una primera adopción conviene una mascota tranquila y adulta, y consultar con el refugio sobre su rutina.",
+  "recomendaciones": [
+    {
+      "id": 3,
+      "nombre": "Michi",
+      "tipo": "gato",
+      "raza": "Europeo común",
+      "edad_anios": 4,
+      "tamano": "pequeño",
+      "energia": "baja",
+      "puntuacion": 100,
+      "puntuacion_reglas": 100,
+      "razon": "Michi encaja porque su energía baja coincide con tu ritmo, su tamaño pequeño es ideal para tu espacio, tiene un carácter tranquilo, ideal para una primera adopción y por su edad ya tiene hábitos formados.",
+      "consideraciones": ""
+    },
+    {
+      "id": 6,
+      "nombre": "Pochi",
+      "tipo": "perro",
+      "raza": "Caniche mestizo",
+      "edad_anios": 9,
+      "tamano": "pequeño",
+      "energia": "baja",
+      "puntuacion": 100,
+      "puntuacion_reglas": 100,
+      "razon": "Pochi encaja porque su energía baja coincide con tu ritmo, su tamaño pequeño es ideal para tu espacio, tiene un carácter tranquilo, ideal para una primera adopción y por su edad ya tiene hábitos formados.",
+      "consideraciones": ""
+    },
+    {
+      "id": 13,
+      "nombre": "Tita",
+      "tipo": "gato",
+      "raza": "Carey",
+      "edad_anios": 10,
+      "tamano": "pequeño",
+      "energia": "baja",
+      "puntuacion": 100,
+      "puntuacion_reglas": 100,
+      "razon": "Tita encaja porque su energía baja coincide con tu ritmo, su tamaño pequeño es ideal para tu espacio, tiene un carácter tranquilo, ideal para una primera adopción y por su edad ya tiene hábitos formados.",
+      "consideraciones": ""
+    }
+  ]
+}
